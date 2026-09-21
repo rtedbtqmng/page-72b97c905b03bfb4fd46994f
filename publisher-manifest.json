@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1d2c1e6552feaa007aca8b1c",
+  "owner": "rtedbtqmng",
+  "repo": "page-72b97c905b03bfb4fd46994f",
+  "title": "追云(KAXIN)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "72b97c905b03bfb4fd46994f",
+      "a": "追云(KAXIN)",
+      "b": "2027最新官网",
+      "entity": "追云(KAXIN)",
+      "brand": "追云(KAXIN)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ee3f94f0829a0e4701011f1bd71e080c545d4f7c6d4cd0bcc053c3072efdc4c9",
+      "content": {
+        "primary_entity": "追云(KAXIN)",
+        "keyword1": "追云(KAXIN)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选对应订阅客户端，手机、电脑与路由器各有合适方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好适配设备与流量档位，完成订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松接入追云",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月15元，含100GB流量与3台设备；旗舰版每月35元，含300GB流量、5台设备及IPLC专线；团队版每月85元，含1000GB流量与20台设备。按年付费分别为150元、350元、850元。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三项要点帮您快速判断。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版平衡流量与设备数，团队版面向多设备高流量场景。",
+          "AI_FEATURE_TITLE_1": "按套餐档位选择",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数量匹配即可。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格更优，三档套餐均可选择按年订阅。",
+          "AI_FEATURE_TITLE_3": "按订阅周期决策",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "追云(KAXIN)提供海外网络加速订阅，设有基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备需求。按年付费更优惠，可搭配手机、电脑和路由器等常用客户端使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持按年付费",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量与IPLC专线，团队版每月85元含1000GB流量。按年付费分别150元、350元、850元，可按流量与设备数量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、在线设备数量和预算，从基础版、旗舰版、团队版中选定档位。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，核对套餐包含的同时在线设备数量是否满足需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参考对应客户端的配置文档导入订阅信息，完成连接设置后即可使用。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "追云(KAXIN)海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "追云(KAXIN)基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，并加入IPLC专线和游戏加速优化，适合多设备或对线路要求更高的用户。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。超出数量可能导致部分设备无法连接，建议按实际设备数选择版本。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付¥150、旗舰版年付¥350、团队版年付¥850，相比按月付费各版本均有一定周期优惠。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月1000GB流量并支持20台设备，提供VIP高带宽节点与企业定制路由，适合小型团队或多人共享使用。",
+          "AI_FAQ_QUESTION_5": "订阅配置需要客户端文档吗？",
+          "AI_FAQ_ANSWER_5": "不同设备对应不同客户端，导入订阅信息的方式也有所区别。建议先确认设备系统，再按对应客户端文档完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gjxgy.cn",
+    "host": "gjxgy.cn"
+  },
+  "file_hashes": {
+    "index.html": "0d2914d31a6baa7948944442d5deb8b850218c271ed17321b4c85733ec2fcc35",
+    "sitemap.xml": "69dcdac9b0251ef46695d6076da56d138f2f8d897f86cc5eaa33b66ed7e8fbe6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4b77f634782c0e456187077ed1a02aaf3037e0859f5046a5f33a22f0016a26ca",
+    "robots.txt": "1522d0b2c9cd3b2daf646fde528dad4cb193847bbd58157d89d5fc41df2ee780",
+    "66c2de0d025e88eb18610d38505ce1fc.txt": "e828370c53b6e84a7ea0e8097de82f7ae52cfa50d68833ec7226ac697e77dc10"
+  },
+  "revision": "a3c71140751ca728152f56cda7b1811908dd7de92372038aaad1b04ba0283227"
+}
